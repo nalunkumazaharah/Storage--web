@@ -39,7 +39,7 @@ gap: 200px;
     font-weight: 60px;
 
 }#uploads{
-    width: 1900px;
+    width: 1650px;
     height: 2000px;
 }#movingservices{
     width: 500pxpx;
@@ -135,4 +135,28 @@ height: 200px;
 
 }.usnow{
     margin-left: 150px;
+}.refreshing{
+    display: flex;
+    gap: 100px;
+}.rose{
+    margin-left: 300px;
+}.add{
+    display: flex;
+    gap: 500px;
+}.updat{
+    margin-left: 400px;
+}#gstatic{
+    width: 500px;
+    height: 650px;
+}.evolved{
+    position: relative;
+    text-align: center;
+    color: white;
+}.has{
+    position: absolute;
+    top: 50%;
+    left: 50%git px;
+    transform: translate(-50%,-50%);
+    font-size: 60px;
+    font-weight: 60px;
 }
