@@ -131,7 +131,7 @@ height: 200px;
     margin-left: 500px;
 }#gstatic{
     width: 500px;
-    height: 650px;
+    height: 500px;
 }.evolved{
     position: relative;
     text-align: center;
@@ -162,5 +162,41 @@ button {
     padding: 20px;
 }body{
     overflow-x: hidden;
-    body
+}.newz{
+    margin-left: 700px;
+}.cont{
+    position: relative;
+    text-align: center;
+    color: white;
+  
+}.boomer{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}.btn{
+    display: flex;
+    gap: 60px;
+}#fblee{
+    width: 500px;
+    height: 500px;
+}#aplus{
+    width: 500px;
+    height: 500px;  
+}.upper-footer{
+    background-color: orange;
+    height: 100px;
+}.USA{
+    display: flex;
+    gap: 1000px;
+    padding: 30px;
+}.lower-footer{
+    background-color: rgb(37, 35, 35);
+    display: flex;
+}input{
+    height: 80px;
+}.sylhet{
+    display: flex;
+    gap: 50px;
 }
+
